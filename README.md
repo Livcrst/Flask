@@ -32,10 +32,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
   - pip install flask
 
 ## 🔖 execução
-- com o projeto já em seu editor (caso vs code), usar o comando FLASK_APP=main.py flask run no terminal e GG! server já estará rodando.
+- Com o projeto já em seu editor (caso vs code), usar o comando FLASK_APP=main.py flask run no terminal e GG! server já estará rodando.
 essa mensagem deve aparecer no seu console:
 
-Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+- Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
  
 - Pode utilizar utilizar o <a href="https://www.postman.com/">Postman</a> e testar os endpoints.
 
