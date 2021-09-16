@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - O projeto é uma aplicação simples que possui dois enpoints de consulta simples.
   - O 1º enpoint deverá ser uma requisição POST recebendo como parâmetro uma Data Inicial e uma Data Final, o resultado deve ser a quantidade de dias entre as datas.
 
-  -O 2º enpoint deverá ser uma requisição POST, onde receberemos o valor de um produto e a alíquota de ICMS, o resultado final deverá ser o valor do produto + impostos.
+  - O 2º enpoint deverá ser uma requisição POST, onde receberemos o valor de um produto e a alíquota de ICMS, o resultado final deverá ser o valor do produto + impostos.
 
 
 - Em seu terminal, já com o python instalado, fazendo uso do pip: 
